@@ -1,0 +1,20 @@
+{
+  "short_name": "Cat Fact App",
+  "name": "Random Cat Fact App",
+  "icons": [
+    {
+      "src": "cat-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "cat-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff"
+}
