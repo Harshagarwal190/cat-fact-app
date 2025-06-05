@@ -1,6 +1,5 @@
-Here’s a polished and comprehensive `README.md` file tailored for your Cat Fact App hosted at [https://cat-fact-app-delta.vercel.app/](https://cat-fact-app-delta.vercel.app/):
 
----
+
 
 # 🐱 Cat Fact App
 
