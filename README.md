@@ -89,12 +89,6 @@ cat-fact-app/
 └── README.md
 ```
 
----
 
-## 🧾 License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Let me know if you'd like to generate a badge section or deploy instructions for GitHub Pages or Netlify as well.
