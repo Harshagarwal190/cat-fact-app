@@ -9,6 +9,11 @@ A simple React-based web application that displays random cat facts using a publ
 
 👉 [Visit Cat Fact App](https://cat-fact-app-delta.vercel.app/)
 
+![image](https://github.com/user-attachments/assets/9b5479d6-614b-4c4a-b7da-db63640490c5)
+![image](https://github.com/user-attachments/assets/ad0c7b63-8551-4595-8cdd-a2103a865c3b)
+
+
+
 ---
 
 ## 🛠️ Getting Started
