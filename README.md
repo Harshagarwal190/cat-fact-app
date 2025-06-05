@@ -16,6 +16,28 @@ A simple React-based web application that displays random cat facts using a publ
 
 ---
 
+## 📁 Folder Structure
+
+```
+cat-fact-app/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── package.json
+└── README.md
+```
+
+## 🌐 API Used
+
+This app fetches cat facts from the **Cat Fact API**:
+
+* `https://catfact.ninja/fact`
+
+---
+
 ## 🛠️ Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -67,27 +89,9 @@ It bundles React in production mode and optimizes the build for best performance
 
 ---
 
-## 🌐 API Used
 
-This app fetches cat facts from the **Cat Fact API**:
 
-* `https://catfact.ninja/fact`
 
----
-
-## 📁 Folder Structure
-
-```
-cat-fact-app/
-├── public/
-├── src/
-│   ├── components/
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-└── README.md
-```
 
 
 
